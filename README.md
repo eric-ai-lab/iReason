@@ -61,8 +61,8 @@ We evaluate six state-of-the-art MLLMs (including o3, GPT-4o, and open-source ba
 
 ## Key Findings
 
-- Default MLLM accuracy on implicit flaws is <40% for top models; <20% for open-source
-### 🧪 Main Results on Implicit Reasoning (Accuracy%)
+### Default MLLM accuracy on implicit flaws is <40% for top models; <20% for open-source
+#### 🧪 Main Results on Implicit Reasoning (Accuracy%)
 
 | Models                | ABS     | REF     | CTR     | FEA     | Overall |
 |-----------------------|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -76,8 +76,8 @@ We evaluate six state-of-the-art MLLMs (including o3, GPT-4o, and open-source ba
 | Phi-3.5-Vision-4B     | 16.90   | 14.63   | 16.54   | 17.72   | 16.66   |
 
 
-- Many models **know the answer but don't say it**—especially under alignment pressure
-### 🔍 Answer–Reason Accuracy Gaps (%)
+### Many models **know the answer but don't say it**—especially under alignment pressure
+#### 🔍 Answer–Reason Accuracy Gaps (%)
 
 | Models              | ABS    | REF     | CTR     | FEA     | Overall |
 |---------------------|:------:|:-------:|:-------:|:-------:|:-------:|
@@ -91,8 +91,8 @@ We evaluate six state-of-the-art MLLMs (including o3, GPT-4o, and open-source ba
 | Phi-3.5-Vision-4B   | 2.81   | 1.22    | 0.38    | 0.64    | 1.09    |
 
 
-- **Clarifying question prompting recovers >94% accuracy** for o3 and GPT-4o
-### 🤖 Interactive Clarification (IC) Performance
+### **Clarifying question prompting recovers >94% accuracy** for o3 and GPT-4o
+#### 🤖 Interactive Clarification (IC) Performance
 
 We report model behavior under two settings:
 - **IC-Free**: model chooses to ask a clarifying question or answer directly.
