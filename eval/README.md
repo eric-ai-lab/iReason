@@ -31,8 +31,6 @@ After setting up, run inference to get model outputs on the question files. Your
 
 ## Get Evaluation results and scores
 
-After getting the output, run calculate_score.py to get scores for all models.
-
-We use o1-mini (0912) as an LLM judge to process the responses. Please set up the model keys in the script properly.
+After getting the output, run llm_judge.py to get scores for the model responses. We use o1-mini (0912) as an LLM judge to process the responses. Please set up the model keys in the script properly.
 
 
