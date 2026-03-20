@@ -2,7 +2,7 @@
 
 [**🌐 Homepage**](https://jackie-2000.github.io/iReason.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/rippleripple/iReason) | [**📖 Paper**](https://arxiv.org/pdf/2506.00258) | [**GitHub**](https://github.com/eric-ai-lab/iReason)
 
-This repository contains the analysis code and evaluation suite for the paper:  
+This repository contains the analysis code and evaluation suite for the EMNLP 2025 paper:  
 **"Hidden in Plain Sight: Probing Implicit Reasoning in Multimodal Language Models"**.
 
 ---
