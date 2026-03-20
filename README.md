@@ -1,6 +1,6 @@
 # iReason
 
-[**🌐 Homepage**](https://jackie-2000.github.io/iReason.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/rippleripple/iReason) | [**📖 Paper**](https://aclanthology.org/2025.emnlp-main.1255.pdf) | [**GitHub**](https://github.com/eric-ai-lab/iReason)
+[**🌐 Homepage**](https://jackie-2000.github.io/ireason.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/rippleripple/iReason) | [**📖 Paper**](https://aclanthology.org/2025.emnlp-main.1255.pdf) | [**GitHub**](https://github.com/eric-ai-lab/iReason)
 
 This repository contains the analysis code and evaluation suite for the EMNLP 2025 paper:  
 **"Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs"**.
