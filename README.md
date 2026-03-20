@@ -1,9 +1,9 @@
 # iReason
 
-[**🌐 Homepage**](https://jackie-2000.github.io/iReason.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/rippleripple/iReason) | [**📖 Paper**](https://arxiv.org/pdf/2506.00258) | [**GitHub**](https://github.com/eric-ai-lab/iReason)
+[**🌐 Homepage**](https://jackie-2000.github.io/iReason.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/rippleripple/iReason) | [**📖 Paper**](https://aclanthology.org/2025.emnlp-main.1255.pdf) | [**GitHub**](https://github.com/eric-ai-lab/iReason)
 
 This repository contains the analysis code and evaluation suite for the EMNLP 2025 paper:  
-**"Hidden in Plain Sight: Probing Implicit Reasoning in Multimodal Language Models"**.
+**"Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs"**.
 
 ---
 
@@ -116,13 +116,11 @@ We report model behavior under two settings:
 If you use this work, please cite:
 
 ```bibtex
-@misc{yan2025hiddenplainsightprobing,
-  title={Hidden in Plain Sight: Probing Implicit Reasoning in Multimodal Language Models}, 
-  author={Qianqi Yan and Hongquan Li and Shan Jiang and Yang Zhao and Xinze Guan and Ching-Chen Kuo and Xin Eric Wang},
-  year={2025},
-  eprint={2506.00258},
-  archivePrefix={arXiv},
-  primaryClass={cs.AI},
-  url={https://arxiv.org/abs/2506.00258}
+@inproceedings{yan2025hidden,
+  title={Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs},
+  author={Yan, Qianqi and Li, Hongquan and Jiang, Shan and Zhao, Yang and Guan, Xinze and Kuo, Ching-Chen and Wang, Xin Eric},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={24726--24746},
+  year={2025}
 }
 
